@@ -65,7 +65,7 @@ To build innovative web applications, continuously improve my technical skills, 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-github-username
+- GitHub: https://github.com/Sakthipriya07
 - Email: sakthipriyamurugan03@gmail.com
 
 ---
