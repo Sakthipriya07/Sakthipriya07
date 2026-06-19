@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sakthipriya
 
-##### Frontend Developer | React Developer | Lifelong Learner
+#### Frontend Developer | React Developer | Lifelong Learner
 
  I am a passionate Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications. My journey into technology started through self-learning, and I have developed my skills through continuous practice and real-world projects.
 
