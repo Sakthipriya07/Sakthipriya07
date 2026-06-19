@@ -1,16 +1,40 @@
-## Hi there 👋
+#Hi 👋, I'm Sakthipriya
 
-<!--
-**Sakthipriya07/Sakthipriya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Frontend Developer | React Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+I am a passionate Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications. My journey into technology started through self-learning, and I have developed my skills through continuous practice and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🚀 Skills
+
+HTML5
+CSS3
+JavaScript (ES6+)
+React.js
+Bootstrap
+Responsive Web Design
+REST API Integration
+Git & GitHub
+
+##💻 Projects
+
+###Food Delivery Application – Responsive UI with modern design and user-friendly navigation.
+###ImageVault – Image gallery application with API integration, search, categories, likes, downloads, and infinite scrolling.
+###News Application – Real-time news fetching using APIs with category filtering and responsive design.
+
+##🌱 Currently Learning
+
+Advanced React.js
+Frontend System Design
+Mern Stack Development
+
+##🎯 Career Objective
+
+To build innovative web applications, continuously improve my technical skills, and contribute to impactful software development projects.
+
+##📫 Connect With Me
+GitHub: Your GitHub Profile Link
+Email: sakthipriyamurugan03@gmail.com
+
+
+##⚡ Fun Fact
+I transitioned from Biotechnology to Frontend Development through self-learning, consistency, and hands-on project building.
