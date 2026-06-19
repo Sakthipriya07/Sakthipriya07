@@ -1,3 +1,20 @@
+# Tomato - React Based Food Delivery Website 
+
+Developed a responsive and user-friendly food delivery web application using ReactJS. Implemented core e-commerce functionalities including add-to-cart, remove-from-cart, dynamic menu display, and user authentication pages. Utilized React Hooks such as useState, useEffect, and useContext for efficient state management and component interaction. Designed an interactive UI using HTML and CSS to enhance user experience across different devices.
+
+## Key Features:
+
+- Dynamic food menu with category-based items
+- Add to cart and remove from cart functionality
+- Login and Signup pages for user authentication
+- Responsive frontend design for mobile and desktop
+- State management using React Hooks and Context API
+  
+## Tech Stack: 
+
+ReactJS, CSS, ContextAPI, React Router
+
+
 Hi 👋, I'm Sakthipriya
 
 Frontend Developer | React Developer | Lifelong Learner
