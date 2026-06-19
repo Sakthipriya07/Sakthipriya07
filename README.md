@@ -26,6 +26,7 @@
 ## 💻 Projects
 
 ### 🍔 Food Delivery Application
+🔗 Live Demo: [Click Here](https://fooddel-liard.vercel.app)  
 
 - Responsive UI with modern design
 - User-friendly navigation
@@ -33,6 +34,7 @@
 - Reusable React components
 
 ### 🖼️ ImageVault
+🔗 Live Demo: [Click Here](https://imagevault-react.vercel.app)  
 
 - Image gallery application with API integration
 - Search and category filtering
@@ -41,6 +43,7 @@
 - Responsive design
 
 ### 📰 News Application
+🔗 Live Demo: [Click Here](https://newsletter-react-beta.vercel.app)  
 
 - Real-time news fetching using APIs
 - Category-based filtering
@@ -77,12 +80,3 @@ I transitioned from Biotechnology to Frontend Development through self-learning,
 ---
 
 # ⭐ "Learning, Building, and Growing Every Day."
-
-
-## 🚀 Projects
-
-### Image Vault App
-A React-based image gallery app with search and filters.
-
-🔗 Live Demo: [Click Here](https://fooddel-liard.vercel.app)  
-💻 Source Code: [GitHub](https://github.com/your-username/image-vault)
