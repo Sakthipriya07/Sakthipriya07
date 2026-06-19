@@ -26,6 +26,7 @@
 ## 💻 Projects
 
 ### 🍔 Food Delivery Application
+    fooddel-liard.vercel.app
 
 - Responsive UI with modern design
 - User-friendly navigation
