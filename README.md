@@ -84,5 +84,5 @@ I transitioned from Biotechnology to Frontend Development through self-learning,
 ### Image Vault App
 A React-based image gallery app with search and filters.
 
-🔗 Live Demo: [Click Here](fooddel-liard.vercel.app)  
+🔗 Live Demo: [Click Here](https://fooddel-liard.vercel.app)  
 💻 Source Code: [GitHub](https://github.com/your-username/image-vault)
