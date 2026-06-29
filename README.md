@@ -2,7 +2,7 @@
 
 #### Frontend Developer | React Developer | React Enthusiast | Open to Opportunities 
 
- I am a passionate Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications. My journey into technology started through self-learning, and I have developed my skills through continuous practice and real-world projects.
+ I am a passionate Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications. My journey into technology started through self-learning, and I have developed my skills through continuous practice and building projects.
 
 ---
 
@@ -33,14 +33,16 @@
 - Mobile-first approach
 - Reusable React components
 
-### 🖼️ ImageVault
-🔗 Live Demo: [Click Here](https://imagevault-react.vercel.app)  
+### Employee management system
+🔗 Live Demo: [Click Here](https://employee-managementsys.vercel.app)  
 
-- Image gallery application with API integration
-- Search and category filtering
-- Like and download functionality
-- Infinite scrolling
+- Employee CRUD operations
+- Search functionality
+- Form validation
+- REST API integration
 - Responsive design
+- React Router navigation
+- Toast notifications
 
 ### 📰 News Application
 🔗 Live Demo: [Click Here](https://newsletter-react-beta.vercel.app)  
